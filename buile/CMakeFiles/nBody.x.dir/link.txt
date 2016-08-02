@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/nBody.x.dir/main.cpp.o  -o nBody.x -rdynamic libpart2.a -lglut -lXmu -lXi -lGLU -lGL -lGLEW -lOpenCL 

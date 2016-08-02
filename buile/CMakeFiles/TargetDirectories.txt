@@ -1,0 +1,4 @@
+/home/bartek/openCL/adventures_in_opencl/nBody/buile/CMakeFiles/rebuild_cache.dir
+/home/bartek/openCL/adventures_in_opencl/nBody/buile/CMakeFiles/nBody.x.dir
+/home/bartek/openCL/adventures_in_opencl/nBody/buile/CMakeFiles/edit_cache.dir
+/home/bartek/openCL/adventures_in_opencl/nBody/buile/CMakeFiles/part2.dir
